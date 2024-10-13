@@ -68,9 +68,10 @@
 
 <h3 align="left">Recent Repositories:</h3>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=camilocuenca&repo=your-repo-name-1" alt="Repo 1" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=camilocuenca&repo=your-repo-name-2" alt="Repo 2" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=camilocuenca&repo=your-repo-name-3" alt="Repo 3" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=camilocuenca&repo=UniEventos_proyecto_final_Backend" alt="Repo 1" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=camilocuenca&repo=UniEventos_proyecto_final_Frontend" alt="Repo 2" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=camilocuenca&repo=AppMisiontic-Movil" alt="Repo 3" />
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=camilocuenca&repo=Proyecto-pagina-Locoreria-" alt="Repo 4" />
 </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=camilocuenca" alt="GitHub Streak" /></p>
