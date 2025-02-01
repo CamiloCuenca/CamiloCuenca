@@ -1,14 +1,21 @@
 <h1 align="center">Hi 👋, I'm Juan Camilo Cuenca Sepulveda</h1>
-<h3 align="center">Computer and Systems Engineering student with strong expertise in Java, modern web technologies, and mobile development. My academic training and experience have equipped me with a deep understanding of core computing concepts, enabling me to tackle complex problems analytically..</h3>
+<p align="center">
+  <img src="Group 3.svg" alt="Logo" width="350" />
+</p
+
+<h3 align="center">Computer and Systems Engineering student with strong expertise in Java, modern web technologies, and mobile development. My academic training and experience have equipped me with a deep understanding of core computing concepts, enabling me to tackle complex problems analytically.. </h3>
+
+
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=camilocuenca&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
-<p align="center">
+   <br>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=camilocuenca&margin-w=15&margin-h=15" alt="GitHub Trophies" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=camilocuenca&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 - 🌱 I’m currently learning **Introducción al desarrollo de back-end (Meta)**  
