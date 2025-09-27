@@ -79,7 +79,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=camilocuenca&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=camilocuenca&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=camilocuenca&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide=tex" alt="Top Languages" />
+
 </p>
 
 ---
