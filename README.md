@@ -85,7 +85,15 @@
   <a href="https://stackoverflow.com/users/25420157">
     <img src="https://skillicons.dev/icons?i=stackoverflow" />
   </a>
-  <a href="https://www.hackerrank.com/juan-camilo-cuenca-sepulveda">
-    <img src="https://skillicons.dev/icons?i=hackerrank" />
+
+   <a href="https://play.google.com/store/apps/dev?id=5684816131315050097">
+    <img 
+      src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" 
+      height="40"
+      alt="Google Play Developer Profile"
+    />
   </a>
+
+
+  
 </p>
